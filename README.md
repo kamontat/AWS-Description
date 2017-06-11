@@ -1,6 +1,10 @@
 Translate from "https://www.expeditedssl.com/aws-in-plain-english"
           by   "Kamontat Chantrachirathumrong"
           
+> จะแก้คำผิด จะเพิ่มการบริการใหม่ๆ จะ fork, join แล้วแต่เลยครับ.  
+> ขอบคุณครับ.
+
+
 # Amazon Web Services (AWS)
 จาก amazon ที่มี services ให้มากมาย แถมคำอธิบายมันการอย่างกับ essay คะแนนเต็มล้าน ยาวโคตรๆ และแทบไม่มีสาระอะไรเลย 55555
 
